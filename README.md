@@ -29,3 +29,29 @@
 ## ⚠️ Why is this program detected as a virus?  
 This Program Using Instead of pynput or keyboard a Win32, which will be detectable by antivirus. Removing false positives costs around **$300/year**. You can freely check the **source code** to know, if save.
 
+---
+
+### 🌙 Setup  
+1. **Download** [Lunex 1.1.zip](https://github.com/RussianGMD/Lunex/releases)
+2. **Extract** a **Lunex** To Any Folder.
+3. **Run** Lunex.exe
+4. **Select a MIDI File** or find one from **MIDI Hub**  
+5. **Focus** on ROBLOX Piano/Virtual Piano
+6. **Press "PLAY"** (Default Hotkey: **F1**)
+
+---
+
+### 🦴 Requirements
+
+**symusic**
+**PyQt 6**
+**python-rtmidi**
+**pickle**
+**requests**
+**time**
+**random**
+**winsound**
+
+---
+
+Soon Will be More Updatings..
