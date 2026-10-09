@@ -6,3 +6,26 @@
 [![Issues](https://img.shields.io/github/issues/RussianGMD/Lunex?style=for-the-badge&logo=github)](https://github.com/RussianGMD/Lunex/issues)
 [![Download Lunex](https://img.shields.io/github/downloads/RussianGMD/Lunex/total?style=for-the-badge)](https://github.com/RussianGMD/Lunex/releases)
 </div>
+
+## 🔥 Features  
+- [x] **Fully Open Source**  
+- [x] **Mega Fast MIDI Load!**
+- [x] **MIDI** to **QWERTY Convert**  
+- [x] **Velocity** and **Sustain** support  
+- [x] **Full 88 Key** support  
+- [x] **Advanced Random Fail/Human Error**
+- [x] **Loop Song!**   
+- [x] **MIDI To Output!**
+- [x] Built-in **MIDI Hub** from [nanoMIDI.net](https://nanomidi.net)  
+- [x] **Modifiable Hotkeys**  
+- [x] **Support of Transposition MIDI File!**
+- [x] **Console with Nofitications**
+- [x] **Accurate Gate** And **Speed Protection!**
+- [x] **No Telemetry**
+- [x] And **More** Will Be Added with **Updates!**
+
+---
+
+## ⚠️ Why is this program detected as a virus?  
+This Program Using Instead of pynput or keyboard a Win32, which will be detectable by antivirus. Removing false positives costs around **$300/year**. You can freely check the **source code** to know, if save.
+
