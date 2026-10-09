@@ -1,5 +1,4 @@
-<img width="804" height="249" alt="bnr" src="./Icons%20For%20Repository/Lunex.jpg" />
-
+![bnr](Icons%20For%20Repository/Lunex.jpg)
 
 
 # Lunex
