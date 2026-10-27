@@ -22,6 +22,7 @@
 - [x] **Console with Nofitications**
 - [x] **Accurate Gate** And **Speed Protection!**
 - [x] **No Telemetry**
+- [x] **Fastest MIDI Player!**
 - [x] And **More** Will Be Added with **Updates!**
 
 ---
@@ -32,7 +33,7 @@ This Program Using Instead of pynput or keyboard a Win32, which will be detectab
 ---
 
 ### 🌙 Setup  
-1. **Download** [Lunex 1.1.zip](https://github.com/RussianGMD/Lunex/releases)
+1. **Download** [Lunex 1.2.exe](https://github.com/RussianGMD/Lunex/releases)
 2. **Extract** a **Lunex** To Any Folder.
 3. **Run** Lunex.exe
 4. **Select a MIDI File** or find one from **MIDI Hub**  
@@ -46,11 +47,8 @@ This Program Using Instead of pynput or keyboard a Win32, which will be detectab
 **symusic**
 **PyQt 6**
 **python-rtmidi**
-**pickle**
+**orjson**
 **requests**
-**time**
-**random**
-**winsound**
 
 ---
 
